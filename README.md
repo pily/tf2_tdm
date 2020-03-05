@@ -8,3 +8,4 @@ https://forums.alliedmods.net/showthread.php?t=316112
 
 TODO
 - showing HUD left frag count 
+- toggle HUD kill ranking
